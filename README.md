@@ -19,8 +19,6 @@ OBJETIVOS ESPECÍFICOS:
 
 # 2.	MARCO TEÓRICO.-
 
-# FASORES
-
 * Resumen: 
 
 En este laboratorio comprenderemos el concepto de fasor en su forma rectangular y polar. Así mismo su
