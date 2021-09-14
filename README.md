@@ -55,9 +55,9 @@ Ahora un numero complejo se puede expresar en dos sistemas coordenados: Cartesia
  
   # 3. EXPLICACIÓN DEL PROCEDIMIENTO.-
   
-  ##Para realizar este laboratorio debes realizar los siguientes pasos:
+  ## Para realizar este laboratorio debes realizar los siguientes pasos:
   
-  ###La transformacion de su coordenada rectangular en el plano complejo a forma polar comprende los siguientes pasos:
+  ### La transformacion de su coordenada rectangular en el plano complejo a forma polar comprende los siguientes pasos:
 
 *	 Empezamos a entederlo graficamente la expresion.
 
@@ -67,7 +67,7 @@ Ahora un numero complejo se puede expresar en dos sistemas coordenados: Cartesia
 
 * Para concluir obtenemos el modulo y el angulo; asi completamos la transformacion.
 
-###La transformacion de su coordenada polar a la de coordenadas rectangulares en el plano complejo comprende los siguientes pasos:
+### La transformacion de su coordenada polar a la de coordenadas rectangulares en el plano complejo comprende los siguientes pasos:
 
 * Empezamos con la observacion del modulo y angulo que comprende la expresion dada a transformar.
 
