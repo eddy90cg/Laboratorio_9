@@ -5,13 +5,13 @@
 
 # 1.	OBJETIVOS.-
 
-OBJETIVO GENERAL:
+## OBJETIVO GENERAL:
 
 * Realizar operaciones aritméticas con números complejos, tanto en su forma polar
 como rectangular.
 
 
-OBJETIVOS ESPECÍFICOS: 
+## OBJETIVOS ESPECÍFICOS: 
 
 * Afianzar experimentalmente las leyes de conservación de la energía eléctrica atraves de los fasores.
 
@@ -115,23 +115,21 @@ forma rectangular como en su forma polar.
 
 https://github.com/eddy90cg/lab-4---fce/blob/main/anexos/C%C3%A1lculos%20Auxiliares.pdf
 
-Ejercicio 1:
+* Ejercicio 1:
 
 ![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/Ejericio%201.jpg)
 
-Ejercicio 2:
+* Ejercicio 2:
 
 ![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/Ejercicio%202.jpg)
 
-Ejercicio 3:
+* Ejercicio 3:
 
 ![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/Ejercicio%203.jpg)
 
 * Registro de datos tomandos del experimento, procesados y calculados por medio de calculadora digital :
 
-
 ![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/Ejercicios%20en%20calculadora.jpg)
-
 
 * Fórmula a aplicar para el cálculo del ERROR:
 
