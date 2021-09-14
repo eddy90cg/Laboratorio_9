@@ -128,21 +128,37 @@ Ahora un numero complejo se puede expresar en dos sistemas coordenados: Cartesia
 
 * Transforme a su forma polar:
 
+Ejercicio a:
+
 ![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20Polar%20A.jpeg)
+
+Ejercicio b:
 
 ![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20Polar%20B.jpeg)
 
+Ejercicio c:
+
 ![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20Polar%20C.jpeg)
+
+Ejercicio d:
 
 ![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20Polar%20D.jpeg)
 
 * Transforme a su forma rectangular:
 
+Ejercicio a:
+
 ![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20Rectangular%20A.jpeg)
+
+Ejercicio b:
 
 ![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20Rectangular%20B.jpeg)
 
+Ejercicio c:
+
 ![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20Rectangular%20C.jpeg)
+
+Ejercicio d:
 
 ![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20Rectangular%20D.jpeg)
 
