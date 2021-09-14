@@ -162,6 +162,19 @@ Ejercicio d:
 
 ![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20Rectangular%20D.jpeg)
 
+* Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+
+Ejercicio a:
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20-%20Rec%20y%20Pol%20A.jpeg)
+
+Ejercicio b:
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20-%20Rec%20y%20Pol%20B.jpeg)
+
+Ejercicio c:
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20-%20Rec%20y%20Pol%20C.jpeg)
 
 # 5. VIDEO.-
 
