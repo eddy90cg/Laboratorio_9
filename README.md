@@ -31,8 +31,6 @@ cantidades fasoriales y son muy útiles en el análisis de circuitos de ca. Con 
 los números complejos se puede sumar, restar, multiplicar y dividir cantidades que tienen
 tanto magnitud como ángulo.
 
-Fasores.-
-
 El fasor es un número complejo que presenta información sobre la amplitud y el ángulo de fase de una función senoidal.  El concepto del fasor se establece a partir de la identidad de Euler, relaciona el exponencial de un número complejo con la función trigonómetrica 
  
 La función coseno es la  parte real de la función exponencial, mientras que la función seno es la parte imaginaria. Considerado como número complejo, el exponencial tiene magnitud unitaria y su ángulo es f.
