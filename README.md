@@ -74,14 +74,23 @@ Ahora un numero complejo se puede expresar en dos sistemas coordenados: Cartesia
 
 * Para concluir podemos graficar y observar que tiene semejanza la grafica pricipal dada y asi concluimos la transformacion. 
 
-![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/transformaciones.jpg)
-
 * Equipos y Materiales necesarios:
 
 | **Cantidad** | **Elemento** |
 | :---: | :---: |
 | 1 | Calculadora Científica |
  
+* Transforme a su forma polar:
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/A%20forma%20polar.jpeg)
+
+* Transforme a su forma rectangular:
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/A%20forma%20rectangular.jpeg)
+
+* Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Polar%20y%20rectangular.jpeg)
 
 # 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.-
 
