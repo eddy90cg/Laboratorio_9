@@ -39,16 +39,16 @@ Por lo anterior, considerando que la frecuencia se mantiene constante, se consid
  
 La expresión anterior es llamada forma polar del fasor. También podemos expresar el fasor en forma rectangular como:
 
-![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/teo%202%20fasores.jpg)
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Imagen%201.png)
 
 Las senoides se expresan fácilmente en fasores, lo que hace mas cómodo trabajar este tipo de funciones.  Un fasor es un numero complejo que representa la amplitud y la fase de una senoide.
 Ahora un numero complejo se puede expresar en dos sistemas coordenados: Cartesiano y polar, como se presentan a continuación. 
  
-![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/teo%201%20fasores.jpg)
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Imagen%202.png)
  
  * Mentefacto: 
  
- ![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/diagrama%20conceptual.jpg)
+ ![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Mentefacto%20-%20Lab%209.png)
  
   # 3. EXPLICACIÓN DEL PROCEDIMIENTO.-
   
@@ -118,11 +118,11 @@ Ahora un numero complejo se puede expresar en dos sistemas coordenados: Cartesia
 
 * Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
 
-![]()
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Rect%20-%20Polar%20A.jpeg)
 
-![]()
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Rect%20-%20Polar%20B.jpeg)
 
-![]()
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Rect%20-%20Polar%20C.jpeg)
 
 #### Realizados a Calculadora
 
