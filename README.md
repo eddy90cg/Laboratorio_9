@@ -77,37 +77,11 @@ Ahora un numero complejo se puede expresar en dos sistemas coordenados: Cartesia
 ![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/transformaciones.jpg)
 
 * Equipos y Materiales necesarios:
+
+| **Cantidad** | **Elemento** |
+| :---: | :---: |
+| 1 | Calculadora Científica |
  
- ![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/Equipos%20y%20materiales.jpg)
- 
- ## Procedimientos y Funcionalidad: 
- 
- * Transformada a su forma polar:
- 
-![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/transformada%20a%20polares.jpg)
-
-* Transformada a su forma rectangular:
-
-![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/transformada%20a%20rectangulares.jpg)
-
-Las siguientes operaciones paso a paso procedemos a transformar matematicamente y representamos el resultado tanto en su
-forma rectangular como en su forma polar.
-
-![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/ejer%20lab%204%20.jpg)
-
-* En el primer problema procedemos a transformar todo a coordenadas rectangulares con el proceso indicado durante este informe.
-
-* Continuamos con las operciones aritmeticas entre complejos.
-
-* Cocnluimos con el resultado en el campo rectangular complejo del primer ejericio.
-
-* Para el segundo caso transformamos su respuesta por el metodo mencionado durante este infrome de laboratorio a coordenadas polares.
-
-* Para el segundo ejercicio y tercer ejercicio empezamos trasnformando sus expresiones a coordenadas rectangulares.
-
-* Continuamos como el primer ejercicio a resolver sus expresiones en coordenadas rectangulares y obtener el resultado en este campo.
-
-* Finalmente concluimos a transformar en el campo de coordenadas polares.
 
 # 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.-
 
