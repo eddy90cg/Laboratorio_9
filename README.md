@@ -60,7 +60,7 @@ Ahora un numero complejo se puede expresar en dos sistemas coordenados: Cartesia
 
 * 	Encontrar el modulo de los coomponentes cartesianos.
 
-* 	Encontrar el angulo de la grafica en el plano cartesiano complejo atraves de la aplicacion trigonometrica del arco tangente del componente complejo en j dividido al componete real, el resultado es el angulo comprendido entre los dos componetes.
+* 	Encontrar el angulo de la grafica en el plano cartesiano complejo atraves de la aplicacion trigonometrica del arco tangente del componente complejo en j dividido al componente real, el resultado es el angulo comprendido entre los dos componetes.
 
 * Para concluir obtenemos el modulo y el angulo; asi completamos la transformacion.
 
@@ -70,7 +70,7 @@ Ahora un numero complejo se puede expresar en dos sistemas coordenados: Cartesia
 
 * Continuamos el proceso con la aplicacion de funciones trigonometricas al angulo dado y multiplicando con su modulo, variando la funcion coseno para la parte real y la funcion seno para la parte compleja.
 
-* Finalmente obtendremos una exprecion z = a +- bj donde a es la parte real y b la parte compleja que sus signo varia segun el angulo dado.
+* Finalmente obtendremos una expresión z = a +- bj donde a es la parte real y b la parte compleja que sus signo varia segun el angulo dado.
 
 * Para concluir podemos graficar y observar que tiene semejanza la grafica pricipal dada y asi concluimos la transformacion. 
 
