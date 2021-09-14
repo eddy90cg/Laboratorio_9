@@ -94,6 +94,57 @@ Ahora un numero complejo se puede expresar en dos sistemas coordenados: Cartesia
 
 # 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.-
 
+#### Realizados a Mano
+
+* Transforme a su forma polar:
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Polar%20-%20Ejercicio%20a.jpeg)
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Polar%20-%20Ejercicio%20b.jpeg)
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Polar%20-%20Ejercicio%20c.jpeg)
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Polar%20-%20Ejercicio%20d.jpeg)
+
+* Transforme a su forma rectangular:
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Rectangular%20-%20Ejercicio%20a.jpeg)
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Rectangular%20-%20Ejercicio%20b.jpeg)
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Rectangular%20-%20Ejercicio%20c.jpeg)
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Rectangular%20-%20Ejercicio%20d.jpeg)
+
+* Realice las siguientes operaciones paso a paso, y represente el resultado tanto en su forma rectangular como en su forma polar.
+
+![]()
+
+![]()
+
+![]()
+
+#### Realizados a Calculadora
+
+* Transforme a su forma polar:
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20Polar%20A.jpeg)
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20Polar%20B.jpeg)
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20Polar%20C.jpeg)
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20Polar%20D.jpeg)
+
+* Transforme a su forma rectangular:
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20Rectangular%20A.jpeg)
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20Rectangular%20B.jpeg)
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20Rectangular%20C.jpeg)
+
+![](https://github.com/eddy90cg/Laboratorio_9/blob/main/img/Calculadora%20Rectangular%20D.jpeg)
 
 
 # 5. VIDEO.-
@@ -134,6 +185,3 @@ Pérez, A. (12 de enero de 2015). Electrónica Completa. Obtenido de
 Recuperado de:
 
      https://dademuch.com/2019/11/08/principio-de-superposicion-analisis-de-circuitos-electricos/
-
- 
- 
