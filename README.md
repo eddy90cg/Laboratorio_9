@@ -76,7 +76,7 @@ Ahora un numero complejo se puede expresar en dos sistemas coordenados: Cartesia
 
 ![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/transformaciones.jpg)
 
-## Equipos y Materiales necesarios:
+* Equipos y Materiales necesarios:
  
  ![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/Equipos%20y%20materiales.jpg)
  
@@ -111,29 +111,6 @@ forma rectangular como en su forma polar.
 
 # 4. RESPUESTA A INTERROGANTES Y CÁLCULO DEL ERROR.-
 
-* Calculos:
-
-https://github.com/eddy90cg/lab-4---fce/blob/main/anexos/C%C3%A1lculos%20Auxiliares.pdf
-
-* Ejercicio 1:
-
-![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/Ejericio%201.jpg)
-
-* Ejercicio 2:
-
-![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/Ejercicio%202.jpg)
-
-* Ejercicio 3:
-
-![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/Ejercicio%203.jpg)
-
-* Registro de datos tomandos del experimento, procesados y calculados por medio de calculadora digital :
-
-![](https://github.com/eddy90cg/lab-4---fce/blob/main/imgs/Ejercicios%20en%20calculadora.jpg)
-
-* Fórmula a aplicar para el cálculo del ERROR:
-
-<img src="https://latex.codecogs.com/svg.latex?\large&space;\begin{align*}&space;&\textrm{F\'ormula&space;para&space;encontrar&space;el&space;Error&space;Porcentual}\\&space;\\&space;&%Error=\frac{\textrm{Valor&space;Te\'orico&space;-&space;Valor&space;Medido}}{\textrm{Valor&space;Te\'orico}}\times100&space;\end{align*}" title="\large \begin{align*} &\textrm{F\'ormula para encontrar el Error Porcentual}\\ \\ &%Error=\frac{\textrm{Valor Te\'orico - Valor Medido}}{\textrm{Valor Te\'orico}}\times100 \end{align*}" />
 
 
 # 5. VIDEO.-
